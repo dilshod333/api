@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXITS dostonbek(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(64)
+);
